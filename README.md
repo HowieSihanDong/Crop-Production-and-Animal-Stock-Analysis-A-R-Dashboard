@@ -1,4 +1,5 @@
 # 🌾 Crop Production and 🐄 Animal Stock Analysis Dashboard
+<img width="860" alt="截屏2024-12-10 下午10 41 05" src="https://github.com/user-attachments/assets/c197df76-6fa2-4e6d-bbcd-734af20b4d9f">
 
 Welcome to the **Crop Production and Animal Stock Analysis Dashboard**! This interactive project allows you to explore global trends in crop production, animal stock, and per capita data across multiple years and regions. 🌍📊
 
